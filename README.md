@@ -1,5 +1,8 @@
 # Laboratorio 1 — Matriz binaria de 100.000 x 100.000 bits en disco duro
 
+**Estudiante:** Samuel Castaño Arenas  
+**CC:** 1046666898
+
 ## Objetivo
 
 Diseñar e implementar un programa que cree, almacene, lea y manipule una
